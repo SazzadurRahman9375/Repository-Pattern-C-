@@ -1,0 +1,15 @@
+C:\Users\sh\source\repos\MIDTERM PROJECT 1279378\ProjectCSharp\1279378\bin\Debug\1279378.exe.config
+C:\Users\sh\source\repos\MIDTERM PROJECT 1279378\ProjectCSharp\1279378\bin\Debug\1279378.exe
+C:\Users\sh\source\repos\MIDTERM PROJECT 1279378\ProjectCSharp\1279378\bin\Debug\1279378.pdb
+C:\Users\sh\source\repos\MIDTERM PROJECT 1279378\ProjectCSharp\1279378\obj\Debug\1279378.csproj.AssemblyReference.cache
+C:\Users\sh\source\repos\MIDTERM PROJECT 1279378\ProjectCSharp\1279378\obj\Debug\1279378.csproj.CoreCompileInputs.cache
+C:\Users\sh\source\repos\MIDTERM PROJECT 1279378\ProjectCSharp\1279378\obj\Debug\1279378.exe
+C:\Users\sh\source\repos\MIDTERM PROJECT 1279378\ProjectCSharp\1279378\obj\Debug\1279378.pdb
+C:\Users\LAB10-01\Downloads\1279378\1279378\bin\Debug\1279378.exe.config
+C:\Users\LAB10-01\Downloads\1279378\1279378\bin\Debug\1279378.exe
+C:\Users\LAB10-01\Downloads\1279378\1279378\bin\Debug\1279378.pdb
+C:\Users\LAB10-01\Downloads\1279378\1279378\obj\Debug\1279378.csproj.AssemblyReference.cache
+C:\Users\LAB10-01\Downloads\1279378\1279378\obj\Debug\1279378.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAB10-01\Downloads\1279378\1279378\obj\Debug\1279378.csproj.CoreCompileInputs.cache
+C:\Users\LAB10-01\Downloads\1279378\1279378\obj\Debug\1279378.exe
+C:\Users\LAB10-01\Downloads\1279378\1279378\obj\Debug\1279378.pdb
